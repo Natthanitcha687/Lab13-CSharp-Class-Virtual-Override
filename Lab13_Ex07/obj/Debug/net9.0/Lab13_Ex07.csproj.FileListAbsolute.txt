@@ -1,0 +1,15 @@
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\bin\Debug\net9.0\Lab13_Ex07.exe
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\bin\Debug\net9.0\Lab13_Ex07.deps.json
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\bin\Debug\net9.0\Lab13_Ex07.runtimeconfig.json
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\bin\Debug\net9.0\Lab13_Ex07.dll
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\bin\Debug\net9.0\Lab13_Ex07.pdb
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\obj\Debug\net9.0\Lab13_Ex07.GeneratedMSBuildEditorConfig.editorconfig
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\obj\Debug\net9.0\Lab13_Ex07.AssemblyInfoInputs.cache
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\obj\Debug\net9.0\Lab13_Ex07.AssemblyInfo.cs
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\obj\Debug\net9.0\Lab13_Ex07.csproj.CoreCompileInputs.cache
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\obj\Debug\net9.0\Lab13_Ex07.sourcelink.json
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\obj\Debug\net9.0\Lab13_Ex07.dll
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\obj\Debug\net9.0\refint\Lab13_Ex07.dll
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\obj\Debug\net9.0\Lab13_Ex07.pdb
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\obj\Debug\net9.0\Lab13_Ex07.genruntimeconfig.cache
+D:\natthanitcha_work\OOP (FRI)\LAB 13\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex07\obj\Debug\net9.0\ref\Lab13_Ex07.dll
